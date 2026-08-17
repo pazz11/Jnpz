@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Jnpz · 技能配置 — DeepSeek Harness (DSH) 插件：MCP 服务器管理与技能管理" width="100%">
+<img src="assets/screenshots/skills-config.png" alt="Jnpz · 技能配置 — DeepSeek Harness (DSH) 插件：MCP 服务器管理与技能管理（界面截图）" width="100%">
 
 <br>
 
