@@ -1,19 +1,25 @@
+<div align="center">
+
+<img src="assets/banner.svg" alt="Jnpz · 技能配置 — DeepSeek Harness (DSH) 插件：MCP 服务器管理与技能管理" width="100%">
+
+<br>
+
 # 🛠 Jnpz · 技能配置（Skills & MCP）—— DeepSeek Harness 插件
 
-<p align="center">
-  <b>一个 <a href="https://github.com/deepseek-ai">DeepSeek Harness (DSH)</a> 的 Web 插件：</b><br/>
-  在设置页新增「<b>技能配置</b>」分类 —— <b>MCP 服务器管理</b>（JSON 粘贴、后台自动转换、热加载）+ <b>技能（Skill）管理</b>（zip/.skill 上传智能解析、创建、编辑、启停）。
-</p>
+**一个 <a href="https://github.com/deepseek-ai">DeepSeek Harness (DSH)</a> 的 Web 插件：**<br/>
+在设置页新增「**技能配置**」分类 —— **MCP 服务器管理**（JSON 粘贴、后台自动转换、热加载）+ **技能（Skill）管理**（zip/.skill 上传智能解析、创建、编辑、启停）。
 
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT"></a>
-  <a href="https://github.com/topics/dsh-plugin"><img src="https://img.shields.io/badge/topic-dsh--plugin-blue" alt="Topic: dsh-plugin"></a>
-  <a href="https://github.com/topics/mcp"><img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-purple" alt="MCP"></a>
-  <img src="https://img.shields.io/badge/DeepSeek%20Harness-web%20plugin-4d6bfe" alt="DeepSeek Harness">
-  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20DSH%20Web-lightgrey" alt="Platform">
-</p>
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT"></a>
+<a href="https://github.com/topics/dsh-plugin"><img src="https://img.shields.io/badge/topic-dsh--plugin-blue" alt="Topic: dsh-plugin"></a>
+<a href="https://github.com/topics/mcp"><img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-purple" alt="MCP"></a>
+<img src="https://img.shields.io/badge/DeepSeek%20Harness-web%20plugin-4d6bfe" alt="DeepSeek Harness">
+<img src="https://img.shields.io/badge/platform-Windows%20%7C%20DSH%20Web-lightgrey" alt="Platform">
+
+<br>
 
 > 🏷️ **DSH plugin · DeepSeek Harness 插件 · MCP 管理器 · MCP server manager · Skill manager · 技能管理 · AI Agent 工具 · Model Context Protocol · no-restart hot reload · 热加载**
+
+</div>
 
 ---
 
