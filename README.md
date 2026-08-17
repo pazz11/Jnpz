@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/screenshots/skills-config.png" alt="Jnpz · 技能配置 — DeepSeek Harness (DSH) 插件：MCP 服务器管理与技能管理（界面截图）" width="100%">
-
-<br>
-
 # 🛠 Jnpz · 技能配置（Skills & MCP）—— DeepSeek Harness 插件
 
 **一个 <a href="https://github.com/deepseek-ai">DeepSeek Harness (DSH)</a> 的 Web 插件：**<br/>
